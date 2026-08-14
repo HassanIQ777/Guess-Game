@@ -1,4 +1,4 @@
-# Makefile template by (HassanIQ777)[https://github.com/HassanIQ777]
+# Makefile template by [HassanIQ777](https://github.com/HassanIQ777)
 
 CXX := g++
 TARGET := guessgame
